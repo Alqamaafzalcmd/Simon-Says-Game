@@ -118,7 +118,8 @@ function Score(level){
     })
 
     if(highscore != 0){
-        score.innerText = `Your Curent Score is : ${level - 1} & Your Highest Score is : ${highscore}`;
+        score.innerText = `Your Current Score is : ${level - 1} & Your Highest Score is : ${highscore}`;
     }
+
 
 }
