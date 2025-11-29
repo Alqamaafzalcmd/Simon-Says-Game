@@ -1,2 +1,2 @@
 # Simon-Says-Game
-Game
+Game.
